@@ -61,7 +61,7 @@ class Login extends Component {
             <img
               src="https://res.cloudinary.com/dm6hv2see/image/upload/v1650634746/samples/Group_7731_2x_peidyx.png"
               className="bookhub-logo"
-              alt="website logo"
+              alt="login website logo"
             />
           </div>
 
